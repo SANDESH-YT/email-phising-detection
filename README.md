@@ -4,7 +4,7 @@ A machine learning project that classifies emails as **Phishing** or **Safe** us
 
 ## Dataset
 
-`Phishing_Email.csv` from Kaggle (18,650 emails with the columns `Email Text` and `Email Type`).
+Dataset: [Phishing Email Dataset on Kaggle](https://www.kaggle.com/datasets/subhajournal/phishingemails) (`Phishing_Email.csv`, 18,650 emails with the columns `Email Text` and `Email Type`).
 The CSV is not included in this repository. Download it from Kaggle and place it in the project folder.
 
 ## Pipeline
